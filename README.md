@@ -1,2 +1,3 @@
 # Paper-Reading
-Reading notes of ISMIR 2022
+
+A repository for paper reading, mostly about automatic music generaton and music structure analysis.
